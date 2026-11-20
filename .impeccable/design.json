@@ -1,0 +1,460 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-18T12:00:00Z",
+  "title": "Design System: Fulcrum",
+  "extensions": {
+    "colorMeta": {
+      "anodised": {
+        "role": "neutral",
+        "displayName": "Anodised",
+        "tonalRamp": [
+          "#0B0B0C",
+          "#141415",
+          "#1E1E20",
+          "#2E2E31",
+          "#4A4A4E",
+          "#9A9A9E",
+          "#C8C8C6",
+          "#F2F2F0"
+        ]
+      },
+      "barrel": {
+        "role": "neutral",
+        "displayName": "Barrel",
+        "tonalRamp": [
+          "#0B0B0C",
+          "#141415",
+          "#1E1E20",
+          "#2E2E31",
+          "#4A4A4E",
+          "#9A9A9E",
+          "#C8C8C6",
+          "#F2F2F0"
+        ]
+      },
+      "raised": {
+        "role": "neutral",
+        "displayName": "Raised",
+        "tonalRamp": [
+          "#0B0B0C",
+          "#141415",
+          "#1E1E20",
+          "#2E2E31",
+          "#4A4A4E",
+          "#9A9A9E",
+          "#C8C8C6",
+          "#F2F2F0"
+        ]
+      },
+      "control-fill": {
+        "role": "neutral",
+        "displayName": "Control Fill",
+        "tonalRamp": [
+          "#0B0B0C",
+          "#141415",
+          "#1E1E20",
+          "#2E2E31",
+          "#4A4A4E",
+          "#9A9A9E",
+          "#C8C8C6",
+          "#F2F2F0"
+        ]
+      },
+      "hairline": {
+        "role": "neutral",
+        "displayName": "Hairline",
+        "tonalRamp": [
+          "#0B0B0C",
+          "#141415",
+          "#1E1E20",
+          "#2E2E31",
+          "#4A4A4E",
+          "#9A9A9E",
+          "#C8C8C6",
+          "#F2F2F0"
+        ]
+      },
+      "hairline-faint": {
+        "role": "neutral",
+        "displayName": "Hairline Faint",
+        "tonalRamp": [
+          "#0B0B0C",
+          "#141415",
+          "#1E1E20",
+          "#2E2E31",
+          "#4A4A4E",
+          "#9A9A9E",
+          "#C8C8C6",
+          "#F2F2F0"
+        ]
+      },
+      "ring": {
+        "role": "neutral",
+        "displayName": "Ring",
+        "tonalRamp": [
+          "#0B0B0C",
+          "#141415",
+          "#1E1E20",
+          "#2E2E31",
+          "#4A4A4E",
+          "#9A9A9E",
+          "#C8C8C6",
+          "#F2F2F0"
+        ]
+      },
+      "track": {
+        "role": "neutral",
+        "displayName": "Track",
+        "tonalRamp": [
+          "#0B0B0C",
+          "#141415",
+          "#1E1E20",
+          "#2E2E31",
+          "#4A4A4E",
+          "#9A9A9E",
+          "#C8C8C6",
+          "#F2F2F0"
+        ]
+      },
+      "ghost-mark": {
+        "role": "neutral",
+        "displayName": "Ghost Mark",
+        "tonalRamp": [
+          "#0B0B0C",
+          "#141415",
+          "#1E1E20",
+          "#2E2E31",
+          "#4A4A4E",
+          "#9A9A9E",
+          "#C8C8C6",
+          "#F2F2F0"
+        ]
+      },
+      "rib": {
+        "role": "neutral",
+        "displayName": "Rib",
+        "tonalRamp": [
+          "#0B0B0C",
+          "#141415",
+          "#1E1E20",
+          "#2E2E31",
+          "#4A4A4E",
+          "#9A9A9E",
+          "#C8C8C6",
+          "#F2F2F0"
+        ]
+      },
+      "metadata": {
+        "role": "neutral",
+        "displayName": "Metadata",
+        "tonalRamp": [
+          "#0B0B0C",
+          "#141415",
+          "#1E1E20",
+          "#2E2E31",
+          "#4A4A4E",
+          "#9A9A9E",
+          "#C8C8C6",
+          "#F2F2F0"
+        ]
+      },
+      "figure": {
+        "role": "neutral",
+        "displayName": "Figure",
+        "tonalRamp": [
+          "#0B0B0C",
+          "#141415",
+          "#1E1E20",
+          "#2E2E31",
+          "#4A4A4E",
+          "#9A9A9E",
+          "#C8C8C6",
+          "#F2F2F0"
+        ]
+      },
+      "on-fill": {
+        "role": "neutral",
+        "displayName": "On Fill",
+        "tonalRamp": [
+          "#0B0B0C",
+          "#141415",
+          "#1E1E20",
+          "#2E2E31",
+          "#4A4A4E",
+          "#9A9A9E",
+          "#C8C8C6",
+          "#F2F2F0"
+        ]
+      },
+      "label": {
+        "role": "neutral",
+        "displayName": "Label",
+        "tonalRamp": [
+          "#0B0B0C",
+          "#141415",
+          "#1E1E20",
+          "#2E2E31",
+          "#4A4A4E",
+          "#9A9A9E",
+          "#C8C8C6",
+          "#F2F2F0"
+        ]
+      },
+      "knob": {
+        "role": "neutral",
+        "displayName": "Knob",
+        "tonalRamp": [
+          "#0B0B0C",
+          "#141415",
+          "#1E1E20",
+          "#2E2E31",
+          "#4A4A4E",
+          "#9A9A9E",
+          "#C8C8C6",
+          "#F2F2F0"
+        ]
+      },
+      "engraving": {
+        "role": "primary",
+        "displayName": "Engraving White",
+        "tonalRamp": [
+          "#0B0B0C",
+          "#141415",
+          "#1E1E20",
+          "#2E2E31",
+          "#4A4A4E",
+          "#9A9A9E",
+          "#C8C8C6",
+          "#F2F2F0"
+        ]
+      },
+      "second-scale": {
+        "role": "secondary",
+        "displayName": "Engraving Yellow",
+        "tonalRamp": [
+          "#1D180C",
+          "#3C3215",
+          "#725C1D",
+          "#AE8A1E",
+          "#E4B425",
+          "#E0C470",
+          "#E6D9B2",
+          "#F5F3EA"
+        ]
+      },
+      "index-red": {
+        "role": "tertiary",
+        "displayName": "Index Red",
+        "tonalRamp": [
+          "#1C0D0D",
+          "#3B1817",
+          "#6F2320",
+          "#AA2822",
+          "#DF322A",
+          "#DD7873",
+          "#E5B5B3",
+          "#F5EBEA"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "wordmark": {
+        "displayName": "Wordmark",
+        "purpose": "Brand wordmark beside the red triangle; brand surfaces only."
+      },
+      "value": {
+        "displayName": "Value",
+        "purpose": "Current value at the trailing edge of a slider header."
+      },
+      "value-index": {
+        "displayName": "Value Index",
+        "purpose": "The median tone under the pivot index."
+      },
+      "scale-figure": {
+        "displayName": "Scale Figure",
+        "purpose": "Slider tick figures and histogram end figures."
+      },
+      "scale-zone": {
+        "displayName": "Scale Zone",
+        "purpose": "Zone numerals, the second unit, in engraving yellow."
+      },
+      "status-figure": {
+        "displayName": "Status Figure",
+        "purpose": "Canvas status bar figures."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Inspector section titles and the toolbar document title."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Source row names and the Upload button."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Slider labels."
+      },
+      "explainer": {
+        "displayName": "Explainer",
+        "purpose": "One plain sentence explaining a mechanism under a control."
+      },
+      "caption": {
+        "displayName": "Caption",
+        "purpose": "File type, subtitles, group headers, overlay tags."
+      }
+    },
+    "shadows": [
+      {
+        "name": "print-lift",
+        "value": "0 18px 50px rgba(0,0,0,0.65)",
+        "purpose": "The photo on the anodised ground."
+      },
+      {
+        "name": "grip-lift",
+        "value": "0 2px 8px rgba(0,0,0,0.55), inset 0 0 0 1px #3A3A3D",
+        "purpose": "Split divider handle."
+      },
+      {
+        "name": "knob",
+        "value": "0 1px 3px rgba(0,0,0,0.6)",
+        "purpose": "Slider thumb."
+      },
+      {
+        "name": "switch-knob",
+        "value": "0 1px 2px rgba(0,0,0,0.4)",
+        "purpose": "Switch knob."
+      }
+    ],
+    "motion": [],
+    "breakpoints": [],
+    "platform": {
+      "target": "macOS 14+, SwiftUI + AppKit",
+      "fontNotes": "Saira must be bundled; system face is SF Pro via .system. Apply tabular figures (tnum) to Saira explicitly.",
+      "nativeMappings": {
+        "slider": "NSSlider with tick marks; index dot drawn at default; double-click resets",
+        "switch": "NSSwitch / Toggle(.switch) tinted on-fill",
+        "sidebar": "source-list NSOutlineView / List(.sidebar) with neutral selection",
+        "toolbar": "unified NSToolbar",
+        "pivotScale": "custom Canvas/NSView above a standard slider, non-interactive"
+      }
+    }
+  },
+  "components": [
+    {
+      "name": "Toolbar Icon Button",
+      "kind": "button",
+      "refersTo": "toolbar-button",
+      "description": "Borderless 36x28 toolbar button; ring fill and engraving glyph when toggled on.",
+      "html": "<div class=\"ds-tb\"><button class=\"ds-tb-btn\" aria-label=\"Crop (C)\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" aria-hidden=\"true\"><path d=\"M4 1v10a1 1 0 0 0 1 1h10M1 4h10a1 1 0 0 1 1 1v10\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\"/></svg></button><button class=\"ds-tb-btn\" aria-pressed=\"true\" aria-label=\"Split (Y)\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" aria-hidden=\"true\"><path d=\"M4 1v10a1 1 0 0 0 1 1h10M1 4h10a1 1 0 0 1 1 1v10\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\"/></svg></button></div>",
+      "css": ".ds-tb{display:flex;gap:4px;background:#141415;padding:12px} .ds-tb-btn{width:36px;height:28px;border:0;border-radius:6px;background:transparent;color:#C8C8C6;display:flex;align-items:center;justify-content:center;transition:background .15s} .ds-tb-btn:hover{background:#1E1E20} .ds-tb-btn[aria-pressed=true]{background:#2E2E31;color:#F2F2F0} .ds-tb-btn:focus-visible{outline:2px solid #C8C8C6;outline-offset:1px}"
+    },
+    {
+      "name": "Upload Button",
+      "kind": "button",
+      "refersTo": "button-upload",
+      "description": "The bordered primary action at the toolbar's trailing edge.",
+      "html": "<div class=\"ds-tb2\"><button class=\"ds-upload\"><svg width=\"16\" height=\"14\" viewBox=\"0 0 20 16\" fill=\"none\" aria-hidden=\"true\"><path d=\"M6 14H5a4 4 0 0 1-.6-8A5.5 5.5 0 0 1 15 5.2 3.6 3.6 0 0 1 15.5 14H14M10 15V8M7.5 10.2 10 7.7l2.5 2.5\" stroke=\"#F2F2F0\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>Upload</button></div>",
+      "css": ".ds-tb2{background:#141415;padding:12px} .ds-upload{height:28px;padding:0 12px 0 10px;border:1px solid #3A3A3D;border-radius:6px;background:#232326;color:#F2F2F0;font:500 13px -apple-system,BlinkMacSystemFont,system-ui,sans-serif;display:flex;align-items:center;gap:7px;transition:background .15s} .ds-upload:hover{background:#2E2E31} .ds-upload:active{background:#3A3A3D} .ds-upload:focus-visible{outline:2px solid #C8C8C6;outline-offset:1px}"
+    },
+    {
+      "name": "Source List Row",
+      "kind": "nav",
+      "refersTo": "source-row-selected",
+      "description": "Sidebar photo row; neutral ring selection, never system blue.",
+      "html": "<nav class=\"ds-src\"><div class=\"ds-src-head\">Shoot, 18 Nov<span>6</span></div><a href=\"#\" class=\"ds-row ds-sel\"><i style=\"background:linear-gradient(180deg,#D9A46A,#8E5B5E 55%,#20232C)\"></i><span><b>DSC_0412</b><small>ARW</small></span><svg width=\"12\" height=\"11\" viewBox=\"0 0 24 22\" aria-label=\"Favourite\" role=\"img\"><path d=\"M12 20.5s-8.5-5.2-10.6-10.4C-0.1 5.9 2.6 1.8 6.7 1.8c2.2 0 4 1.2 5.3 3.1 1.3-1.9 3.1-3.1 5.3-3.1 4.1 0 6.8 4.1 5.3 8.3C20.5 15.3 12 20.5 12 20.5z\" fill=\"#F2F2F0\"/></svg></a><a href=\"#\" class=\"ds-row\"><i style=\"background:linear-gradient(180deg,#A7B6C2,#4F6574 55%,#1E262D)\"></i><span><b>DSC_0413</b><small>ARW</small></span></a></nav>",
+      "css": ".ds-src{width:220px;background:#141415;padding:12px 10px;display:flex;flex-direction:column;gap:2px;font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text',system-ui,sans-serif;} .ds-src-head{display:flex;padding:4px 8px 8px;font-size:11px;font-weight:600;color:#9A9A9E} .ds-src-head span{margin-left:auto;font-family:Saira,sans-serif;font-variant-numeric:tabular-nums;font-weight:500} .ds-row{display:flex;align-items:center;gap:10px;padding:6px 8px;border-radius:7px;color:#D6D6D4;text-decoration:none} .ds-row:hover{background:#1E1E20} .ds-row:focus-visible{outline:2px solid #C8C8C6} .ds-row i{width:36px;height:24px;border-radius:2px;flex:none} .ds-row span{display:flex;flex-direction:column;line-height:1.25} .ds-row b{font-size:13px;font-weight:400} .ds-row small{font-size:11px;color:#9A9A9E} .ds-row svg{margin-left:auto} .ds-sel{background:#2E2E31;color:#F2F2F0} .ds-sel b{font-weight:500} .ds-sel:hover{background:#2E2E31}"
+    },
+    {
+      "name": "Engraved Slider",
+      "kind": "input",
+      "refersTo": "slider-fill",
+      "description": "NSSlider with tick figures, an index dot at the default, and an on-fill from the index.",
+      "html": "<div class=\"ds-slider\"><div class=\"ds-slider-head\"><label>Exposure</label><span class=\"ds-val\">+0.35<small>EV</small></span></div><div class=\"ds-slider-rail\"><i class=\"ds-index\"></i><i class=\"ds-track\"></i><i class=\"ds-fill\"></i><i class=\"ds-knob\" tabindex=\"0\"></i></div><div class=\"ds-figs\"><span>−4</span><span>−2</span><span class=\"ds-lit\">0</span><span>+2</span><span>+4</span></div></div>",
+      "css": ".ds-slider{width:288px;display:flex;flex-direction:column;gap:5px;background:#141415;padding:12px 16px;color:#F2F2F0;font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text',system-ui,sans-serif;} .ds-slider-head{display:flex;align-items:baseline} .ds-slider-head label{font-size:12px;color:#D6D6D4} .ds-val{margin-left:auto;font-family:Saira,sans-serif;font-variant-numeric:tabular-nums;font-size:14px;font-weight:500} .ds-val small{font-size:11px;color:#9A9A9E;margin-left:3px} .ds-slider-rail{position:relative;height:18px} .ds-slider-rail i{position:absolute;display:block} .ds-index{left:50%;top:0;width:4px;height:4px;margin-left:-2px;border-radius:50%;background:#F2F2F0} .ds-track{left:0;right:0;top:8px;height:2px;border-radius:1px;background:#3A3A3D} .ds-fill{left:50%;width:4.4%;top:8px;height:2px;background:#C8C8C6} .ds-knob{left:54.4%;top:2px;width:14px;height:14px;margin-left:-7px;border-radius:50%;background:#E8E8E6;box-shadow:0 1px 3px rgba(0,0,0,.6);transition:transform .15s} .ds-knob:hover{transform:scale(1.08)} .ds-knob:focus-visible{outline:2px solid #C8C8C6;outline-offset:2px} .ds-figs{display:flex;justify-content:space-between;font-family:Saira,sans-serif;font-variant-numeric:tabular-nums;font-size:11px;color:#9A9A9E} .ds-lit{color:#F2F2F0}"
+    },
+    {
+      "name": "Switch",
+      "kind": "input",
+      "refersTo": "switch-on",
+      "description": "Native switch with the graphite on-state.",
+      "html": "<div class=\"ds-sw-row\"><span>Black &amp; White</span><button class=\"ds-sw\" role=\"switch\" aria-checked=\"true\" aria-label=\"Black and white\"><i></i></button></div>",
+      "css": ".ds-sw-row{display:flex;align-items:center;width:288px;background:#141415;padding:12px 16px;color:#F2F2F0;font:600 13px -apple-system,system-ui,sans-serif} .ds-sw{margin-left:auto;width:32px;height:18px;padding:0;border:0;border-radius:9px;background:#3A3A3D;position:relative;transition:background .15s} .ds-sw[aria-checked=true]{background:#C8C8C6} .ds-sw i{position:absolute;left:2px;top:2px;width:14px;height:14px;border-radius:50%;background:#FFFFFF;box-shadow:0 1px 2px rgba(0,0,0,.4);transition:left .15s} .ds-sw[aria-checked=true] i{left:16px} .ds-sw:focus-visible{outline:2px solid #C8C8C6;outline-offset:2px}"
+    },
+    {
+      "name": "Contrast Pivot Scale",
+      "kind": "custom",
+      "refersTo": "inspector-section",
+      "description": "Depth-of-field scale: brackets open around the median index, tone values in white, zones in yellow, driven by the slider beneath.",
+      "html": "<section class=\"ds-pivot\"><div class=\"ds-pivot-head\"><h2>Contrast</h2><span>+24</span></div><svg width=\"288\" height=\"92\" viewBox=\"0 0 288 92\" role=\"img\" aria-label=\"Contrast +24 around median 118\"><g fill=\"none\" stroke=\"#4A4A4E\" stroke-width=\"1\"><path d=\"M134 2 V24 L112 52\"/><path d=\"M154 2 V24 L176 52\"/><path d=\"M126 2 V24 L80 52\"/><path d=\"M162 2 V24 L208 52\"/><path d=\"M118 2 V24 L48 52\"/><path d=\"M170 2 V24 L240 52\"/><path d=\"M110 2 V24 L16 52\"/><path d=\"M178 2 V24 L272 52\"/></g><g fill=\"none\" stroke=\"#F2F2F0\" stroke-width=\"1.8\" stroke-linejoin=\"round\"><path d=\"M123 2 V24 L67 52\"/><path d=\"M165 2 V24 L221 52\"/></g><path d=\"M144 0 V48\" stroke=\"#F2F2F0\" stroke-width=\"1.5\"/><path d=\"M137 56 L144 46 L151 56 Z\" fill=\"#F2F2F0\"/><g font-family=\"Saira, sans-serif\" font-size=\"11\" fill=\"#A8A8AC\" text-anchor=\"middle\"><text x=\"16\" y=\"71\">14</text><text x=\"48\" y=\"71\">40</text><text x=\"80\" y=\"71\">66</text><text x=\"112\" y=\"71\">92</text><text x=\"176\" y=\"71\">144</text><text x=\"208\" y=\"71\">170</text><text x=\"240\" y=\"71\">196</text><text x=\"272\" y=\"71\">222</text></g><text x=\"144\" y=\"72\" font-family=\"Saira, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#F2F2F0\" text-anchor=\"middle\">118</text><g font-family=\"Saira, sans-serif\" font-size=\"11\" font-weight=\"500\" fill=\"#E8B92E\" text-anchor=\"middle\"><text x=\"16\" y=\"88\">I</text><text x=\"48\" y=\"88\">II</text><text x=\"80\" y=\"88\">III</text><text x=\"112\" y=\"88\">IV</text><text x=\"144\" y=\"88\">V</text><text x=\"176\" y=\"88\">VI</text><text x=\"208\" y=\"88\">VII</text><text x=\"240\" y=\"88\">VIII</text><text x=\"272\" y=\"88\">IX</text></g></svg><p>Pivots on this photo's median, tone 118. Above it brightens, below darkens; the median stays put.</p></section>",
+      "css": ".ds-pivot{width:288px;background:#141415;padding:10px 16px;color:#F2F2F0;font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text',system-ui,sans-serif;} .ds-pivot-head{display:flex;align-items:baseline;margin-bottom:4px} .ds-pivot-head h2{margin:0;font-size:13px;font-weight:600} .ds-pivot-head span{margin-left:auto;font-family:Saira,sans-serif;font-variant-numeric:tabular-nums;font-size:14px;font-weight:500} .ds-pivot p{margin:6px 0 0;font-size:12px;line-height:1.45;color:#A8A8AC}"
+    },
+    {
+      "name": "Brand Mark",
+      "kind": "custom",
+      "refersTo": "wordmark",
+      "description": "Red index triangle beside the Saira wordmark. The only use of index red.",
+      "html": "<div class=\"ds-mark\"><svg width=\"44\" height=\"40\" viewBox=\"0 0 44 40\" role=\"img\" aria-label=\"Fulcrum mark\"><path d=\"M22 2 L42 38 H2 Z\" fill=\"#D7261E\"/></svg><span>Fulcrum</span></div>",
+      "css": ".ds-mark{display:flex;align-items:flex-end;gap:18px;background:#0B0B0C;padding:24px;color:#F2F2F0} .ds-mark span{font-family:Saira,sans-serif;font-weight:500;font-size:64px;line-height:.82;letter-spacing:-.02em}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Engraved Barrel",
+    "overview": "Fulcrum's controls are marked the way a lens barrel is marked: one fixed index, and scales that run symmetrically out from it, so the median that the contrast curve pivots on is something you can see. The chrome is matte black anodised metal in neutral greys. White figures are engraved into it. A second scale in engraving yellow appears only where a scale carries a second unit. The single red mark is the brand. The mark and the mechanism share a shape: the index triangle is the pivot.\n\nIt is a native macOS window first. The marking language lives on top of standard controls (unified toolbar, source-list sidebar, inspector, NSSlider, switch). It never replaces them. Density is a pro-tool inspector's density, with 12–13px labels and 11px figures. The photo sits on the darkest ground, with nothing coloured near it, so the chrome never sways a judgement of tone or colour. The visual rejection confirmed by the direction is the category default: a grey panel of identical blue-filled sliders.",
+    "keyCharacteristics": [
+      "Neutral black chrome, stepping from photo ground (#0B0B0C) through panels (#141415) to pressed states (#2E2E31).",
+      "Every number on a scale is set in Saira with tabular figures. Every word is set in the system face.",
+      "Sliders carry tick figures and an index dot at their default value.",
+      "Contrast is drawn as a depth-of-field pivot scale above a standard slider.",
+      "Colour carries meaning only: yellow is the second unit, red is the mark."
+    ],
+    "rules": [
+      {
+        "name": "The One Job Rule",
+        "body": "Yellow means \"second unit on this scale\" and red means \"Fulcrum\". If a use of either colour can't be read that way, it is wrong.",
+        "section": "colors"
+      },
+      {
+        "name": "The Red Triangle Rule",
+        "body": "The brand index is always a triangle, never a dot. A red dot is Leica's trademark, and Fulcrum does not borrow it.",
+        "section": "colors"
+      },
+      {
+        "name": "The Graphite On-State Rule",
+        "body": "Every \"on\" or \"filled\" state uses `on-fill` (#C8C8C6). That covers slider fills and switch tracks. Neither the system accent colour nor any blue is used.",
+        "section": "colors"
+      },
+      {
+        "name": "The Neutral Chrome Rule",
+        "body": "Chrome uses greys only. The photo is the only coloured thing on screen, apart from yellow zones and the mark.",
+        "section": "colors"
+      },
+      {
+        "name": "The Engraved Figures Rule",
+        "body": "Every number that lives on a scale or readout uses Saira with tabular figures, so values never jitter while you drag. Words are never set in Saira, except the wordmark.",
+        "section": "typography"
+      },
+      {
+        "name": "The Flat Metal Rule",
+        "body": "Panels, sections and rows are flat. If a shadow isn't lifting the photo or a thumb or handle, remove it.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** keep every chrome surface in the neutral ladder (#0B0B0C → #141415 → #1E1E20 → #2E2E31), with the photo on `anodised`.",
+      "**Do** set every number on a scale in Saira with tabular figures, and every word in the system face.",
+      "**Do** give each slider an index dot at its default and light the figure at the default in `engraving`.",
+      "**Do** use `on-fill` (#C8C8C6) for every on-state and fill: slider fills and switch tracks.",
+      "**Do** draw indices as triangles pointing at the value they mark.",
+      "**Do** build on native controls (NSSlider with tick marks, NSSwitch, source list, unified toolbar), with neutral tints that override the system accent colour.",
+      "**Do** put one plain sentence under a control when its mechanism is not obvious."
+    ],
+    "donts": [
+      "**Don't** use engraving yellow (#E8B92E) for anything except a scale's second unit.",
+      "**Don't** use index red (#D7261E) anywhere but the brand mark, and never as a dot.",
+      "**Don't** use the system accent blue or any tint for fills, selection or switches.",
+      "**Don't** build the category default: a grey panel of identical blue-filled sliders.",
+      "**Don't** add shadows to panels, sections or rows.",
+      "**Don't** set labels or prose in Saira."
+    ]
+  }
+}

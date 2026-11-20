@@ -1,0 +1,13 @@
+# SwiftPM / Xcode
+.build/
+build/
+.swiftpm/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# macOS
+.DS_Store
+
+# Impeccable local state
+.impeccable/config.local.json
